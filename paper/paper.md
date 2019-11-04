@@ -50,6 +50,7 @@ authors:
   - name: Matti Hamalainen
     affiliation: "1, 2"
   - name: Konrad Kording
+    orcid: 0000-0001-8408-4499
     affiliation: 3
   - name: Pavan Ramkumar
     orcid: 0000-0001-7450-0727
